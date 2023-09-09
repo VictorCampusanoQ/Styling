@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.titulo{
+    background-color: black;
+    color: aqua;
+    padding: 20px 10px;
+    margin: 5px;
+}
+.titulo span{
+    color: white;
+}
+.subtitulo{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight:  300;
+    padding: 20px 10px;
+    margin: 5px;
+}
+.contacto{
+    background-color: lightskyblue;
+    text-align: end;
+    text-decoration: underline;
+    padding: 20px 10px;
+    margin: 5px;
+}
